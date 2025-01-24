@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Page-1" id="2iZk4_WNi-DOi7itaPD2">
-    <mxGraphModel>
+    <mxGraphModel dx="2440" dy="1332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AiSlVMbdS4jd-YAJJcmv-2" target="AiSlVMbdS4jd-YAJJcmv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-2" value="Tutorial" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=19.5;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=UgFLPf~j-25P;" vertex="1" parent="1">
+          <mxGeometry x="572" y="440" width="142" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AiSlVMbdS4jd-YAJJcmv-3" target="AiSlVMbdS4jd-YAJJcmv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-3" value="Demographic Collection" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=19.5;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=phFLS13vF87C;" vertex="1" parent="1">
+          <mxGeometry x="384" y="440" width="142" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AiSlVMbdS4jd-YAJJcmv-4" target="AiSlVMbdS4jd-YAJJcmv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-4" value="Message Evaluation" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=19.5;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=YhFLagFFh7fZ;" vertex="1" parent="1">
+          <mxGeometry x="768" y="440" width="142" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AiSlVMbdS4jd-YAJJcmv-5" target="AiSlVMbdS4jd-YAJJcmv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-5" value="SUS Survey" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=19.5;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=biFLujoLqB-m;" vertex="1" parent="1">
+          <mxGeometry x="964" y="440" width="142" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-6" value="Clarification Questions&#xa;(Disagreement, Feelings, Usage Experience)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=19.5;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=piFLOIdOqyZL;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="436" width="252" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AiSlVMbdS4jd-YAJJcmv-13" target="AiSlVMbdS4jd-YAJJcmv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AiSlVMbdS4jd-YAJJcmv-13" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Consent  +  Background Introduction&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26,&amp;quot;e&amp;quot;:35},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:35},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:35}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;font-size: 19.5px;&quot;&gt;Consent&lt;br&gt;&amp;nbsp; +  Background Introduction&lt;/span&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=19.5;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=phFLS13vF87C;" vertex="1" parent="1">
+          <mxGeometry x="195" y="440" width="142" height="147" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
